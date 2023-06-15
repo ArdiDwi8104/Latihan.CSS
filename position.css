@@ -1,0 +1,54 @@
+.kotak1, .kotak2, .kotak3 {
+    width: 300px;
+    height: 300px;
+}
+.kotak4, .kotakputih, .kotak6 {
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    bottom: 900px;
+    position: relative;
+}
+.kotak7, .kotak8, .kotak9 {
+    width: 300px;
+    height: 300px;
+    left: 600px;
+    bottom: 1800px;
+    position: relative;
+}
+
+.kotak1 {
+    background-image: url(23595033_148241502466716_8926563567335899136_n-300x300.jpg);
+}
+.kotak2 {
+    background-image: url(data.png.jpg);
+}
+.kotak3 {
+    background-image: url(gapura-300x300.jpg);
+}
+.kotak4 {
+    background-image: url(images.jpg);
+}
+.kotakputih {
+    background-color: white;
+}
+.kotak6 {
+    background-image: url(sayembara2-300x300.jpg);
+}
+.kotak7 {
+    background-image: url(Ukuran-Foto-dan-Video-yang-Pas-untuk-di-Upload-ke-Instagram-by-Emulator.ID-5-300x300.jpg);
+}
+.kotak8 {
+    background-image: url(Membuat-Poster-Hari-Guru-di-illustrator-indah01-300x300.png);
+}
+.kotak9 {
+    background-image: url(18609114_6b6f1b51-a69d-40cd-a243-5872ee611258_1080_1080.png);
+}
+
+.container {
+    width: 900px;
+    height: 900px;
+    border: 20px solid black;
+    margin: 100px auto;
+    position: relative;
+}
